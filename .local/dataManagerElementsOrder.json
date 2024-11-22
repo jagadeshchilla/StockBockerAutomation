@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtconfig&Sequence_1",
+        "url&Sequence_1",
+        "dtRule&Sequence_1",
+        "sample&Sequence_1",
+        "dtSample&Sequence_1",
+        "email&Sequence_1",
+        "emailBody&Sequence_1",
+        "attachmentList&Sequence_1",
+        "companyName&Sequence_4",
+        "setValues&Sequence_4",
+        "currentValue&Sequence_4",
+        "expectedPrice&Sequence_4",
+        "currentPriceNum&Sequence_4",
+        "emailBody&Sequence_6",
+        "emailBody&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
